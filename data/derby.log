@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Sep 28 11:39:55 CEST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-015e-c7db-5b3d-000014a3a078 
+on database directory /Users/Randy/Documents/Telecom ParisTech/INF729/funding-successful-projects-on-kickstarter/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@fcf9525 
+Loaded from file:/Users/Randy/spark-2.2.0-bin-hadoop2.7/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_91-b14
+user.dir=/Users/Randy/Documents/Telecom ParisTech/INF729/funding-successful-projects-on-kickstarter
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.12.6
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
